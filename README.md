@@ -1,9 +1,7 @@
 
 This is my portfolio website, built with `JavaScript`, `React`, `Material-UI`, and `CSS`.
 
-## Project Screen Shot(s)
 
-![Home Page](https://raw.githubusercontent.com/iKausik/ikausik.github.io/master/src/assets/projects/project-f.png)
 
 ## Installation and Setup Instructions
 
